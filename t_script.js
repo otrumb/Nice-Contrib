@@ -25,4 +25,4 @@ for (let i = 0; i < days; i++) {
 execSync("git push origin main");
 
 // Clean up
-fs.unlinkSync("content.txt");
+// fs.unlinkSync("content.txt");
